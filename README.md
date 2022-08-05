@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tai-sho&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tai-sho&theme=onedark&show_icons=true" />
+</p>
+<img alt="github stats" height="150px" src="https://github-profile-trophy.vercel.app/?username=tai-sho&theme=onedark&column=7" />
 <!--
 **tai-sho/tai-sho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
